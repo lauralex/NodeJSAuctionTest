@@ -1,0 +1,66 @@
+.login.page {
+    background-color: #000;
+    display: block;
+}
+
+.login.page .form {
+    height: 100px;
+    margin-top: -100px;
+    position: absolute;
+
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
+
+.login.page .form .usernameInput {
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #fff;
+    outline: none;
+    padding-bottom: 15px;
+    text-align: center;
+    width: 400px;
+}
+
+.login.page .title {
+    font-size: 200%;
+}
+
+.login.page .usernameInput {
+    font-size: 1.4rem;
+    letter-spacing: 3px;
+}
+
+.login.page .title {
+    font-weight: 100;
+    color: #fff;
+}
+.login.page .usernameInput {
+    
+    font-weight: 100;
+}
+
+/* Chat page */
+
+.chat.page {
+    display: none;
+}
+
+.message_form__button {
+    display: inline-block;
+    position: fixed;
+    right: 0;
+    top: 50vh;
+    
+    margin-top: -9vw;
+    
+    
+    
+    width: 40vw;
+    font-size: 12vw;
+}
+
+.pages {
+    padding: 0;
+}
