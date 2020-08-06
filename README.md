@@ -1,6 +1,6 @@
 # NodeJSAuctionTest
 Realtime auction system written in JavaScript
 
-# Dependencies
+## Dependencies
 - Socket.io
 - Express
